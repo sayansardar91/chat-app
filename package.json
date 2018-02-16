@@ -1,5 +1,5 @@
 {
-    "name": "Chat_App",
+    "name": "ChatApp",
     "version": "0.1.0",
     "description": "A sample Node.js app using Express 4",
     "engines": {
@@ -30,5 +30,5 @@
         "url": "https://github.com/sayansardar91/chat-app"
     },
     "private": true,
-    "license": "MIT"
+    "license": "NA"
 }
