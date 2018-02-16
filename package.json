@@ -29,5 +29,6 @@
         "type": "git",
         "url": "https://github.com/sayansardar91/node_chat"
     },
-    "license": "N/A"
+    "private": true,
+    "license": "MIT"
 }
