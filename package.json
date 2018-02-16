@@ -1,5 +1,5 @@
 {
-    "name": "starter-node-angular",
+    "name": "Chat-App-Using-Node",
     "version": "0.1.0",
     "description": "A sample Node.js app using Express 4",
     "engines": {
@@ -29,5 +29,5 @@
         "type": "git",
         "url": "https://github.com/sayansardar91/node_chat"
     },
-    "license": "MIT"
+    "license": "N/A"
 }
